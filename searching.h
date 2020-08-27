@@ -2,5 +2,4 @@
 #include<vector>
 using namespace std;
 
-bool search_custom(std::vector<int> v ,int x);
-	
+bool search_custom(std::vector<int> v , int num , int startidx , int endidx);
